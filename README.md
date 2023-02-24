@@ -1,4 +1,4 @@
-#### Try here: https://rpehkone.github.io/Navier-Stokes-real-time/wasm/
+#### Try here: https://rpehkone.github.io/fluid-simulation/wasm/
 
 ![](sim.gif)
 
